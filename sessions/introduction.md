@@ -9,6 +9,7 @@ What you'll learn
 -----------------
 
 - Required tools
+- Name of Hacker
 - Thinking like a breaker
 - Attacker-defender imbalance
 - Lightweight threat assessment and prioritization
